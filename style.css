@@ -1,0 +1,70 @@
+.banner{
+    text-align: center;
+    color:white;
+    background-color: rgb(163, 4, 4);
+    padding:3px;
+    margin-bottom:-1px;
+}
+.logo {
+    width:50px;
+}
+.navbar{
+    background-color: rgb(49, 49, 49);
+}
+.nav-link{
+    color:white!important;
+    font-size: 22px;
+    transition:0.5s;
+}
+.nav-link:hover{
+    background-color:rgb(163, 4, 4) ;
+}
+
+.navbar-toggler-icon{
+    background-color:white!important;
+}
+.dropdown-item {
+    font-size: 20px;
+    transition:0.5s;
+}
+.dropdown-item:hover{
+    background-color: rgb(49, 49, 49);
+    color:white;    
+}
+.map{
+    margin:0 auto;
+    padding:5px;        
+}
+.act{
+    text-align: center;
+    padding:5px;
+    }
+.act img {
+    width:200px;
+}
+.act-1{
+    text-align: center;
+    background-color: rgb(163, 4, 4);
+    color:white;
+    margin:30px;
+}
+.contact {
+    padding:10px;    
+}
+.contact img{
+    width:30px;    
+}
+.footer{
+    height: 100px;
+    background-color: rgb(163, 4, 4);
+    margin-top:100px;
+}
+.tovar{
+    text-align: center;
+    padding:10px;
+    border:1px solid silver;
+    display:none;
+}
+.tovar img{
+    width:200px;
+}
